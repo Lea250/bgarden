@@ -1,0 +1,90 @@
+html, body
+{
+ height:100%;
+ margin:0;
+}
+
+body
+{
+  background-image:url("../img/f22.jpeg"); 
+  background-size:cover;
+  background-repeat: no-repeat; 
+}
+
+.nav li 
+{
+  float: left;    
+  width: 14%;
+  text-align: center;
+  list-style: none;
+  font-size:22px;
+  background-color:rgba(46, 139, 87, 0.3);   
+}
+
+.nav a 
+{
+  color:#90ee90;
+  text-shadow:2px 2px #8b4513;
+}
+
+.nav
+{
+  height:10%;
+}    
+
+#header
+{
+  height:15%;
+  width:100%;
+  text-align:center;
+  text-shadow:4px 3px #8b4513;
+  color:rgba(250, 251, 193, 1);/*It is a nice color*/
+  font-size:35px;
+  margin-top:0.5%;
+}
+
+#midcon
+{
+  height:50%;
+}
+  
+#left
+{
+  height:100%;
+  float:left;
+  margin-left:5%;
+}
+
+#imgl 
+{
+  height:100%; 
+}
+
+#box
+{
+   background-color:rgba(46, 139, 87, 0.4); 
+   height:100%;
+   width:30%;
+   float:right;
+   margin-right:100px;
+}
+
+#text1
+{
+   height:100%;
+   color:#ffff00;
+   font-size:25px;/*Text is mine*/
+   text-align:center;
+   text-shadow:2px 2px #8b4513;
+   margin-top:10%;
+}
+
+
+
+
+
+
+
+
+
+

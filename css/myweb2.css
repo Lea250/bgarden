@@ -1,0 +1,81 @@
+html, body
+{
+  height:100%;
+  margin:0;
+}
+
+.flowers-in-bloom 
+{
+  background-image:url("../img/f20.jpg"); 
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.nav ul 
+{
+  list-style: none; 
+  margin-left:2%;
+}
+.nav li 
+{
+  float: left;    
+  width: 14%;
+  text-align: center;
+  list-style: none;
+  font-size:22px;
+  background-color:rgba(46, 139, 87, 0.3);   
+}
+
+.nav
+{
+  height:10%;
+}
+
+.nav a 
+{
+  color:#90ee90; /*This color is the best here*/ 
+  text-shadow:2px 2px #8b4513;
+}
+
+#midcon
+{
+  height:70%; 
+  width:80%;
+ margin:auto;
+}
+
+img
+{
+  width:12%; 
+  padding:0.1%;
+  border-radius:98%;
+  margin:2%;
+  background-color:rgba(143,188,143,0.2);
+}
+
+.img1
+{
+  height:33%;
+  width: 100%;
+  margin: auto;
+  padding:3%;  
+   box-sizing:border-box;
+}
+
+.img2
+{
+  height:33%;
+  width:100%;
+  margin:auto;
+  padding:3%;
+   box-sizing:border-box;
+}
+
+.img3
+{
+  height:33%;
+  width:100%;
+  margin:auto;
+  padding:3%;
+  box-sizing:border-box;
+}

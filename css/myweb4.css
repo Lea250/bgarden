@@ -1,0 +1,79 @@
+html, body
+{
+  height:100%;
+  margin:0;
+}
+
+.kiku-show
+{
+  background-image:url("../img/f18.jpg");
+  background-size:cover;
+  background-repeat:no-repeat; /*This makes a background look nice*/ 
+}
+
+.nav li 
+{
+  float: left;    
+  width: 14%;
+  text-align: center;
+  list-style: none;
+  font-size:22px;
+}
+
+.nav a 
+{
+  color:#90ee90; 
+  text-shadow:2px 2px #8b4513;
+}
+
+.nav
+{
+  height:5%;  
+}
+
+div
+{
+  width:90%;
+  margin-left:5%;
+  margin-top:2%;
+}
+
+.text1
+{
+  height:25%; 
+  margin-top:2%;
+}
+
+p
+{
+  text-align:center;
+  font-size:22px;
+  text-shadow:2px 2px #8b4513;
+  color:#ffff00;
+  margin-top:0.4%;
+  padding:3%;
+ }
+
+img
+{
+  width:18%;
+  padding:1%;
+  border-radius:50px;
+  margin-left:10%;
+}
+ 
+.backcol
+{
+   background-color:rgba(46, 138, 86, 0.4); 
+}
+#box-img
+{
+  height:60%;
+}
+
+
+
+
+
+
+
